@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>font color='red'>Welcome to Harish Project....!!<font></h1>
+<h1><font color='red'>Welcome to Harish Project....!!<font></h1>
 <h2>Hello World !!</h2>
 <h3>I am Harish Learning DevOps.</h3>
 <h4>  Thanks  !!</h4>
